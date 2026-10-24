@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:312E81,100:6366F1&height=210&section=header&text=Hey,%20I'm%20Ritikraj!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Product%20Builder&descSize=16&descAlignY=58" width="100%" alt="Animated profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:312E81,100:6366F1&height=210&section=header&text=Hey,%20I'm%20Ritik!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Product%20Builder&descSize=16&descAlignY=58" width="100%" alt="Animated profile header" />
 
 <a href="https://github.com/Ritikmandal13">
   <img src="https://img.shields.io/badge/GitHub-Ritikmandal13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
