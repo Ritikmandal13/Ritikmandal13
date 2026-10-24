@@ -36,7 +36,9 @@ I'm a Computer Engineering student and software developer who enjoys building us
 <div align="center">
 
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Ritikmandal13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=A5B4FC&icon_color=818CF8&text_color=E4E4E7&show=all_time_contribs&contribs_include_own_repos=true" alt="GitHub statistics" />
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Ritikmandal13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=A5B4FC&icon_color=818CF8&text_color=E4E4E7&show=all_time_contribs,contributions&contribs_include_own_repos=true&cache_seconds=86400" alt="GitHub statistics" />
+
 
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikmandal13&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=A5B4FC&text_color=E4E4E7&size_weight=0.5&count_weight=0.5" alt="Most used languages" />
